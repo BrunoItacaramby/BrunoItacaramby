@@ -21,7 +21,7 @@
   <a href="https://www.autohotkey.com/"> <img src="https://img.shields.io/badge/AutoHotkey-0052CC?style=for-the-badge&logo=firebase&logoColor=white" />
   <a href="https://www.mongodb.com/"> <img src="https://img.shields.io/badge/MongoDB-16C621?style=for-the-badge&logo=firebase&logoColor=white" />
   <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=firebase&logoColor=white" />
-    <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/GIT-gray?style=for-the-badge&logo=firebase&logoColor=white" />
-      <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=firebase&logoColor=white" />
+    <a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/GIT-gray?style=for-the-badge&logo=firebase&logoColor=white" />
+      <a href="https://github.com/"> <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=firebase&logoColor=white" />
 <!--   <a href="https://developer.apple.com/xcode/"> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=firebase&logoColor=white" /> -->
 </div>
