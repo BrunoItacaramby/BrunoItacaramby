@@ -10,9 +10,9 @@
 
 <h3 align="left">Linguagens:</h3>
 <div>
-  <a href="https://nodejs.org"> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" />
-    <a href="https://nodejs.org"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white" />
-      <a href="https://nodejs.org"> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <a href="https://www.javascript.com/"> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" />
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white" />
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML5&logoColor=white" />
 </div>
 
 <h3 align="left">Ferramentas:</h3>
